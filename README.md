@@ -1,7 +1,11 @@
 # store-comment-mongodb-nodejs
 nodejs + express + mongodb to do MVC example
 
-Youtube: [API Model Bucket Mongodb With Nodejs](https://youtu.be/7ki7uw46Flw)
+Youtube:Series Mongodb Backend: MongoDB with comments architecture
+
+
+1 - [Triển khai hệ thống comments trong ứng dụng Mongodb | index mongodb | b - tree | birary - tree](https://youtu.be/XPtlC1YeRwU)
+2 - [Shopee vs Hack news đã triển khai hệ thống Comments như thế này với Rest Api? Dành cho Level 1](https://youtu.be/i8WLvdbF_W8)
 
 Blog: [backend nodejs](https://anonystick.com)
 
